@@ -1,0 +1,38 @@
+{
+  "name": "nextjs_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "serve": "concurrently"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mashamaslovskaya1998/nextjs_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mashamaslovskaya1998/nextjs_project/issues"
+  },
+  "homepage": "https://github.com/mashamaslovskaya1998/nextjs_project#readme",
+  "dependencies": {
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sass": "^1.55.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.7.23",
+    "@types/react": "18.0.21",
+    "autoprefixer": "^10.4.12",
+    "concurrently": "^7.4.0",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8",
+    "typescript": "4.8.4"
+  }
+}
