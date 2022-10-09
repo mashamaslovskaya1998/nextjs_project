@@ -1,3 +1,4 @@
+import "tailwindcss/tailwind.css";
 interface IApp {
   Component: string;
   pageProps: any;
